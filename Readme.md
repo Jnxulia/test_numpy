@@ -1,3 +1,11 @@
+**Pasos para la instalacion**
+
+Descargar repositorio
+```
+git clone https://github.com/Jnxulia/test_numpy.git
+```
+
+
 Instalar las dependencias :
 ```
 pip install -r requirements.txt 
